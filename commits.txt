@@ -1,0 +1,35 @@
+commit 1f409ba39b7910bdb31a8bb06f7e2adb13e373d2
+Author: Julio Villa <java_026@hotmail.com>
+Date:   Sat Jan 17 21:45:05 2015 -0600
+
+    Se agregaron los sitios web al portafolio.
+
+commit c38f1747cf43bdb9e34068aef4f3b47d20443321
+Author: Julio Villa <java_026@hotmail.com>
+Date:   Sat Jan 17 21:39:21 2015 -0600
+
+    Se agregó la descrión en el sitio.
+
+commit 0ae92be037190ac304b9a3efff0c1f983ff4f1e7
+Author: Julio Villa <java_026@hotmail.com>
+Date:   Sat Jan 17 21:31:59 2015 -0600
+
+    Se agregaron los enlaces de las redes sociales.
+
+commit a7524c642d50ea5485d8dc5d7f305f0da0cf64b5
+Author: Julio Villa <java_026@hotmail.com>
+Date:   Sat Jan 17 21:05:57 2015 -0600
+
+    Escrito el perfil Web
+
+commit d1c8ea8b953df36442ae45e5411e5b4d7dc0652f
+Author: Julio Villa <java_026@hotmail.com>
+Date:   Sat Jan 17 20:58:51 2015 -0600
+
+    Se modificó la fotografía del perfil y el nombre.
+
+commit 78e03ecedd52af6eb343f69b62580fe1031bd164
+Author: Julio Villa <java_026@hotmail.com>
+Date:   Sat Jan 17 20:40:14 2015 -0600
+
+    Estos son los archivos base de mi proyecto de Git
